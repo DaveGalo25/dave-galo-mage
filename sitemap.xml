@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://davidgalotto.com/</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://davidgalotto.com/assets/images/david-galotto-professional-headshot.png</image:loc>
+      <image:title>David Galotto professional headshot</image:title>
+      <image:caption>Professional headshot portrait of David Galotto.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://davidgalotto.com/assets/images/david-galotto-campus-portrait.png</image:loc>
+      <image:title>David Galotto campus portrait</image:title>
+      <image:caption>Outdoor campus portrait of David Galotto.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://davidgalotto.com/assets/images/david-galotto-rocket-launch-field.png</image:loc>
+      <image:title>David Galotto rocket launch field photo</image:title>
+      <image:caption>David Galotto standing beside a red rocket at an outdoor launch field.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://davidgalotto.com/assets/images/david-galotto-friends-outdoor-plaza.png</image:loc>
+      <image:title>David Galotto outdoor plaza photo</image:title>
+      <image:caption>David Galotto with friends at a sunny outdoor plaza.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://davidgalotto.com/assets/images/david-galotto-formal-event-portrait.png</image:loc>
+      <image:title>David Galotto formal event portrait</image:title>
+      <image:caption>Formal event portrait of David Galotto.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://davidgalotto.com/photos/professional-headshot.html</loc>
+    <lastmod>2026-06-13</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://davidgalotto.com/assets/images/david-galotto-professional-headshot.png</image:loc>
+      <image:title>David Galotto professional headshot</image:title>
+      <image:caption>Professional headshot portrait of David Galotto.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://davidgalotto.com/photos/campus-portrait.html</loc>
+    <lastmod>2026-06-13</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://davidgalotto.com/assets/images/david-galotto-campus-portrait.png</image:loc>
+      <image:title>David Galotto campus portrait</image:title>
+      <image:caption>Outdoor campus portrait of David Galotto.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://davidgalotto.com/photos/rocket-launch-field.html</loc>
+    <lastmod>2026-06-13</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://davidgalotto.com/assets/images/david-galotto-rocket-launch-field.png</image:loc>
+      <image:title>David Galotto rocket launch field photo</image:title>
+      <image:caption>David Galotto standing beside a red rocket at an outdoor launch field.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://davidgalotto.com/photos/friends-outdoor-plaza.html</loc>
+    <lastmod>2026-06-13</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://davidgalotto.com/assets/images/david-galotto-friends-outdoor-plaza.png</image:loc>
+      <image:title>David Galotto outdoor plaza photo</image:title>
+      <image:caption>David Galotto with friends at a sunny outdoor plaza.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://davidgalotto.com/photos/formal-event-portrait.html</loc>
+    <lastmod>2026-06-13</lastmod>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://davidgalotto.com/assets/images/david-galotto-formal-event-portrait.png</image:loc>
+      <image:title>David Galotto formal event portrait</image:title>
+      <image:caption>Formal event portrait of David Galotto.</image:caption>
+    </image:image>
+  </url>
+</urlset>
