@@ -12,7 +12,7 @@ Static, crawlable photo gallery for David Galotto.
 
 ## Deployment
 
-Host the folder as a static site. If the production domain is not `https://davidgalotto.com`, replace that URL in:
+Host the folder as a static site. If the production domain is not `https://david-galotto.vercel.app`, replace that URL in:
 
 - `index.html`
 - `photos/*.html`

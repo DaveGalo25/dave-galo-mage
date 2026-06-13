@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://davidgalotto.com/sitemap.xml
+Sitemap: https://david-galotto.vercel.app/sitemap.xml
